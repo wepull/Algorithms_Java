@@ -1,0 +1,2 @@
+accountId,x-fapi-auth-date,x-fapi-customer-ip-address,x-fapi-interaction-id,Accept-Language,fromDate,toDate
+"'1234'","'2022-01-01'","'192.168.1.1'","'interaction1'","'en-US'","'2022-01-01'","'2022-01-31'"

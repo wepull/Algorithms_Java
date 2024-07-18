@@ -1,0 +1,3 @@
+authToken,fapiAuthDate,customerIp,interactionId,language,paramName,paramValue,status
+"'Bearer token1'","'2021-01-01T10:00:00Z'","'192.168.1.1'","'interaction1'","'en-US'","'param1'","'value1'","'active'"
+"'Bearer token2'","'2021-01-01T11:00:00Z'","'192.168.1.2'","'interaction2'","'en-GB'","'param2'","'value2'","'inactive'"
