@@ -1,0 +1,11 @@
+consentId,statusCode,expectedResponse
+"7404e99b-1a4d-4b08-b441-c327661527f0","204","{}"
+"invalid-consent-id","400","{ 'code': '#string', 'message': '#string', 'errors': '#[]' }"
+"unauthorized-consent-id","401","{ 'message': '#string' }"
+"forbidden-consent-id","403","{ 'message': '#string' }"
+"method-not-allowed-consent-id","405","{ 'code': '#string', 'message': '#string', 'errors': '#[]' }"
+"not-acceptable-consent-id","406","{ 'code': '#string', 'message': '#string', 'errors': '#[]' }"
+"too-many-requests-consent-id","429","{ 'message': '#string' }"
+"internal-server-error-consent-id","500","{ 'code': '#string', 'message': '#string', 'errors': '#[]' }"
+"service-unavailable-consent-id","503","{ 'message': '#string' }"
+"gateway-timeout-consent-id","504","{ 'message': '#string' }"

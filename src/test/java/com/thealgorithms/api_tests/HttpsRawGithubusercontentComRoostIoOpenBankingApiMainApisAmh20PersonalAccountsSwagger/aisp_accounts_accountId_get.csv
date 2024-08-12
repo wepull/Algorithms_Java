@@ -1,0 +1,11 @@
+accountId,statusCode
+"ThR-RpLMV5lZzDu8vrfEFg","200"
+"InvalidID","400"
+"MissingAuth","401"
+"ForbiddenID","403"
+"MethodNotAllowed","405"
+"NotAcceptableID","406"
+"TooManyRequests","429"
+"ServerErrorID","500"
+"ServiceUnavailableID","503"
+"GatewayTimeoutID","504"

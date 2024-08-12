@@ -1,0 +1,4 @@
+accountId,fromDate,toDate,x-fapi-auth-date,x-fapi-customer-ip-address,x-fapi-interaction-id,Accept-Language
+"123","2021-01-01","2021-12-31","date1","ip1","id1","en"
+"456","2021-02-01","2021-12-31","date2","ip2","id2","en"
+"789","2021-03-01","2021-12-31","date3","ip3","id3","en"

@@ -1,0 +1,5 @@
+x-fapi-auth-date,x-fapi-customer-ip-address,x-fapi-interaction-id,Accept-Language,ack,returnImmediately,maxEvents,status_code
+"2022-12-01T00:00:00Z","192.168.1.1","12345","en-US","ack1","true","1","201"
+"2022-12-01T00:00:00Z","192.168.1.2","12346","en-US","ack2","false","2","201"
+"2022-12-01T00:00:00Z","192.168.1.3","12347","en-US","ack3","true","3","400"
+"2022-12-01T00:00:00Z","192.168.1.4","12348","en-US","ack4","false","4","500"
