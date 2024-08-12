@@ -1,0 +1,2 @@
+authToken,x-fapi-auth-date,x-fapi-customer-ip-address,x-fapi-interaction-id,Accept-Language,paramName,paramValue
+"Bearer abc123","2022-01-01T01:01:01Z","192.168.0.1","abc123","en-US","testParam","testValue"
